@@ -1,0 +1,7 @@
+train: E:\HB_WuChang\code\dc\datasets\rizline2\images  # train images (relative to 'path') 4 images
+val: E:\HB_WuChang\code\dc\datasets\rizline2val\images  # val images (relative to 'path') 4 images
+
+names:
+  0: tap
+  1: hold
+  2: sl
